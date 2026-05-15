@@ -1,4 +1,4 @@
-# Gushwork — Meera Industries Limited
+# Gushwork Assignment
 
 Product landing page for Meera Industries Limited, showcasing HDPE pipes and piping solutions. Built with vanilla HTML, CSS, and JavaScript — no build tools or dependencies required.
 
